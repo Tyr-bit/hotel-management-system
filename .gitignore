@@ -43,3 +43,6 @@ build/
 # Misc
 .cache/
 .parcel-cache/
+
+# Local working files
+.dumate/
