@@ -46,3 +46,11 @@ build/
 
 # Local working files
 .dumate/
+
+# Non-code assets (not part of the project source code)
+界面/
+E-R/
+*.jpg
+*.png
+概念逻辑结构设计.txt
+系统需求分析.txt
